@@ -25,9 +25,20 @@
     "eslint": "^4.19.1",
     "husky": "^0.14.3",
     "lint-staged": "^6.1.1",
-    "prettier": "^1.17.0"
+    "prettier": "^1.19.1"
   },
   "bin": {
     "collate": "./bin/collate.js"
-  }
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katydecorah/spreadsheet-collator.git"
+  },
+  "author": "Katy DeCorah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/katydecorah/spreadsheet-collator/issues"
+  },
+  "homepage": "https://github.com/katydecorah/spreadsheet-collator#readme"
 }
